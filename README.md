@@ -29,6 +29,10 @@ Java runtime diagnostics engineer, passionate about bytecode tricks & high-throu
 
 - **💡 Tooling**  
   - Git · IntelliJ IDEA · Markdown
+  - 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenCGL)
+
+ *“让不可见的运行时细节，一目了然”*  
 <!--
 **ZenCGL/ZenCGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
