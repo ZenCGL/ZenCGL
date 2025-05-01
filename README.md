@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+-->
 <!--
 **ZenCGL/ZenCGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
