@@ -20,16 +20,9 @@ Java runtime diagnostics engineer, passionate about bytecode tricks & high-throu
   - `java.lang.instrument` · ASM · ByteBuddy  
   - Arthas Agent · JFR · async-profiler
 
-- **🌐 Networking & HTTP**  
-  - Netty · JDK HttpServer  
-  - HTTP/1.1 Chunked · Streamable APIs
-
 - **🚀 Build & DevOps**  
   - Maven · Gradle · Docker · Linux
 
-- **💡 Tooling**  
-  - Git · IntelliJ IDEA · Markdown
-  - 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenCGL)
 
  *“让不可见的运行时细节，一目了然”*  
